@@ -15,14 +15,14 @@ ___________________________________________________________________________
 # Installation
 
 ### How to install plugins:
-**Step 1:** Put the plugin's .cs file into the `**./plugins/**` folder. If it's not there, make a new folder and put it in there.
+**Step 1:** Put the plugin's .cs file into the `./plugins/` folder. If it's not there, make a new folder and put it in there.
 
-**Step 2:** Either in-game or via the server console, type `**/pcompile [plugin name]**`. It should say `**Plugin compiled successfully.**`, if it doesn't, make an issue [here](https://github.com/TeamEpicLegends/Released-Custom-Plugins-Commands/issues).
+**Step 2:** Either in-game or via the server console, type `/pcompile [plugin name]`. It should say `Plugin compiled successfully.`, if it doesn't, make an issue [here](https://github.com/TeamEpicLegends/Released-Custom-Plugins-Commands/issues).
 
-**Step 3:** Now type `**/pload [plugin name]**`. It should say `**Plugin loaded successfully**`.
+**Step 3:** Now type `/pload [plugin name]`. It should say `Plugin loaded successfully`.
 
 ## And you're done, enjoy your new plugin!
 ___________________________________________________________________________
 
-If you are having trouble installing the plugin feel free to DM me on discord **Ninja_King#5108** or ingame `**/Send Ninja_King [Message]**` I will most likely be on New Blood ZS.
+If you are having trouble installing the plugin feel free to DM me on discord **Ninja_King#5108** or ingame `/Send Ninja_King [Message]` I will most likely be on New Blood ZS.
 ___________________________________________________________________________
