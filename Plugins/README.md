@@ -17,7 +17,7 @@ ___________________________________________________________________________
 ### How to install plugins:
 **Step 1:** Put the plugin's .cs file into the **./plugins/** folder. If it's not there, make a new folder and put it in there.
 
-**Step 2:** Either in-game or via the server console, type **/pcompile [plugin name]**. It should say "**Plugin compiled successfully.**", if it doesn't, make an issue [here](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/issues).
+**Step 2:** Either in-game or via the server console, type **/pcompile [plugin name]**. It should say "**Plugin compiled successfully.**", if it doesn't, make an issue [here](https://github.com/TeamEpicLegends/Released-Custom-Plugins-Commands/issues).
 
 **Step 3:** Now type **/pload [plugin name]**. It should say "**Plugin loaded successfully**".
 
