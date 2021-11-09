@@ -11,8 +11,6 @@ ___________________________________________________________________________
 | ------------- | -----|
 |  **[Welcome](https://github.com/TeamEpicLegends/Released-Custom-Plugins-Commands/blob/main/Plugins/Welcome.cs)** | Announces a welcome message on player join.
 ___________________________________________________________________________
-#### Plugins with a `*` next to them are private or custom made for `Epic Legends`.
-___________________________________________________________________________
 
 # Installation
 
