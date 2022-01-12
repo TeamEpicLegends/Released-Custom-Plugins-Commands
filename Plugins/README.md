@@ -10,6 +10,7 @@ ___________________________________________________________________________
 | Name | Description |
 | ------------- | -----|
 |  **[Welcome](https://github.com/TeamEpicLegends/Released-Custom-Plugins-Commands/blob/main/Plugins/Welcome.cs)** | Announces a welcome message on player join.
+| **[SilentModel](https://github.com/TeamEpicLegends/Released-Custom-Plugins-Commands/blob/main/Plugins/SilentModel.cs)** | /model but it doesn't send a message.
 ___________________________________________________________________________
 
 # Installation
