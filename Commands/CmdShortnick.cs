@@ -58,9 +58,9 @@ namespace MCGalaxy
             {
                 string color = p != null ? p.color : Group.GroupIn(p.name).Color;
                 Chat.MessageGlobal(p.ColoredName + " &Shad their nick set to " + color + args[0]);
-                p.ColoredName = args[0];
+                p.DisplayName = args[0];
                 //TabList.Update(p, true);
-                PlayerOperations.SetNick(p.name, args[0]);
+                PlayerDB.SetNick(p.name, args[0]);
             }
         }
 
